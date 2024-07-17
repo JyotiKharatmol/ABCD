@@ -21,6 +21,8 @@ public class AppTest3
 	public void ServerConnection()
 	{
 		System.out.println("server connection made");
+		System.out.println("app test 3");
+		System.out.println("app test 4");
 	}
 	
 	@AfterTest
